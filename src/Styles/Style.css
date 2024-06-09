@@ -15,3 +15,6 @@ body {
 .clicker:active {
     scale: 99.5%;
 }
+.main-container {
+    align-content: center;
+}

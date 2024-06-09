@@ -5,6 +5,11 @@
 body {
     background-color: #182533;
 }
+div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 .clicker {
     border-radius: 50vh;
     background-color: #182533;
@@ -14,9 +19,4 @@ body {
 }
 .clicker:active {
     scale: 99.5%;
-}
-.main-container {
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }

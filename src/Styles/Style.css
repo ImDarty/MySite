@@ -1,0 +1,17 @@
+* {
+    border: none;
+    padding: 0;
+}
+body {
+    background-color: #182533;
+}
+.clicker {
+    border-radius: 50vh;
+    background-color: #182533;
+    max-height: 204px;
+    cursor: pointer;
+    transition: all 20ms;
+}
+.clicker:active {
+    scale: 99.5%;
+}
